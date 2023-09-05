@@ -46,7 +46,7 @@ export default {
 
 .title {
     font-size: 36px;
-    height: 40vh;
+    height: 10cm;
     color: #007bff;
 }
 
