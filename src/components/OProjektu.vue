@@ -41,12 +41,12 @@ export default {
 
 .content {
     text-align: center;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 
 .title {
     font-size: 36px;
-    margin-top: 20px;
+    margin-top: 15px;
     color: #007bff;
 }
 
