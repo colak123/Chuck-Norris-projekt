@@ -1,5 +1,5 @@
 <template>
-    <div class="about">
+    <div class="oprojektu">
         <div class="content">
             <h1 class="title">{{ title }}</h1>
             <p>
