@@ -11,6 +11,7 @@
                 Podaci su dobiveni korištenjem Axios za pristupanje API-ju.
             </p>
             <h3>Autori: Marko Čolak i Darko Ivanković</h3>
+            <button id="myButton" class="btn-primary" onclick="alert('Marko Čolak: markocolak1@fpmoz.sum.ba\nDarko Ivanković: darko.ivankovic@fpmoz.sum.ba')">Kontakt</button>
         </div>
         <div class="image-container">
             <img src="@/assets/logo.png" alt="logo" />
@@ -48,6 +49,16 @@ export default {
     font-size: 36px;
     margin-top: 70px;
     color: #007bff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+
 }
 
 .image-container {
